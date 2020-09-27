@@ -1,4 +1,5 @@
 # Bin2Dec
+Projeto de estudo
 
 ## 📙 Descrição:
 Foi um projeto para estudo próprio e conhecimento de front-end, baseado na coleção de ideias para aplicações do [florinpop17](https://github.com/florinpop17/app-ideas).
