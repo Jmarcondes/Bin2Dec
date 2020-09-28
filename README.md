@@ -7,10 +7,13 @@ Foi um projeto para estudo próprio e conhecimento de front-end, baseado na cole
 **Nivel:** 1-Iniciante 👶
 
 **👤 User Stories :**
-- [x] O usuário pode inserir até 8 dígitos binários em um campo de entrada
-- [x] O usuário deve ser notificado se algo diferente de 0 ou 1 foi inserido
-- [x] O usuário visualiza os resultados em um único campo de saída contendo o equivalente decimal (base 10) do número binário que foi inserido
-- [ ] (Bônus) O usuário pode inserir um número variável de dígitos binários
+- [x] O usuário pode inserir até 8 dígitos binários em um campo de entrada.
+- [x] O usuário deve ser notificado se algo diferente de 0 ou 1 foi inserido.
+- [x] O usuário visualiza os resultados em um único campo de saída contendo o equivalente decimal (base 10) do número binário que foi inserido.
+- [x] (Bônus) O usuário pode inserir um número variável de dígitos binários.
+
+**Minhas Inclusões :**
+- [x] Conversão de Valores em Hexadecimal e Octal.
 
 ## 💻 Tecnologias Utilizadas:
 ![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript)
